@@ -1,0 +1,26 @@
+{
+  "name": "c2_backend",
+  "version": "1.0.0",
+  "description": "backend for the C2 concept",
+  "main": "NodeSrv.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadesh/C2_Backend.git"
+  },
+  "author": "andre rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cadesh/C2_Backend/issues"
+  },
+  "homepage": "https://github.com/Cadesh/C2_Backend#readme"
+}
